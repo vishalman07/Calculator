@@ -1,0 +1,33 @@
+.container{
+    text-align: center;
+    margin-top: 2px;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.calci{
+    display: inline-block;
+    margin-top: 10px;
+    background-color: aliceblue;
+    padding: 19px;
+    border-radius: 20px;
+    border: 1px solid blue;
+}
+#input{
+font-size: 46px;
+    border: 3px solid midnightblue;
+    border-radius: 36px;
+}
+button{
+    height: 72px;
+    width: 118px;
+    font-family: cursive;
+    background-color: lavenderblush;
+    font-size: 22px;
+    margin: 9px;
+    border: 2px solid blueviolet;
+    border-radius: 23px;
+}
+.scale{
+    transform: scale(1.10);
+}
